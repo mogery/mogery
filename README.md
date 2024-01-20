@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**mogery/mogery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gergő Móricz, aka mog or mogery.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [ComCODE](https://comcode.org) and various software bounties
+- 📫 How to reach me: I'm on Discord (@mogery)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### OSS contributions
+#### 2024
+- qdrant/qdrant#3430 -- Added support for storing snapshots on S3 (WIP)
+- calcom/cal.com#13337 -- Added ICS feed support (merge pending)
+
+#### 2021
+- ptitSeb/box64#132, ptitSeb/box64#135 -- Fixed various issues with Unity game compatibility
+
+#### 2020
+- amaranth-lang/amaranth-boards#123 -- Added a weird board from AliExpress to Amaranth HDL
