@@ -7,7 +7,7 @@ I'm Gergő Móricz, aka mog or mogery.
 
 ### OSS contributions
 #### 2024
-- tailcallhq/tailcaill#1015 -- Added a showcase endpoint to run Tailcall on the fly (merge pending)
+- tailcallhq/tailcall#1015 -- Added a showcase endpoint to run Tailcall on the fly (merge pending)
 - qdrant/qdrant#3430 -- Added support for storing snapshots on S3 (merge pending)
 - calcom/cal.com#13337 -- Added ICS feed support
 
