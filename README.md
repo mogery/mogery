@@ -7,6 +7,8 @@ I'm Gergő Móricz, aka mog or mogery.
 
 ### OSS contributions
 #### 2024
+- https://github.com/tailcallhq/tailcall/pull/1058 -- Fixed an inconsistency in GraphQL serialization in Tailcall (merge pending)
+- https://github.com/tailcallhq/tailcall/pull/1054 -- Added markdown-based snapshot testing framework to Tailcall (WIP)
 - https://github.com/tailcallhq/tailcall/pull/1048 -- Added file data source to Tailcall (merge pending)
 - https://github.com/tailcallhq/tailcall/pull/1044 -- Added AWS Lambda deployment support to Tailcall (merge pending)
 - https://github.com/highlight/highlight/pull/7578 -- Added Rust SDK for Highlight.io (merge pending)
