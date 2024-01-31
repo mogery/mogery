@@ -7,7 +7,8 @@ I'm Gergő Móricz, aka mog or mogery.
 
 ### OSS contributions
 #### 2024
-- https://github.com/mendableai/data-connectors/pull/10 -- Added a Notion data connector to Mendable (in review)
+- https://github.com/mendableai/data-connectors/pull/12 -- Added a Jira data connector to Mendable (in review)
+- https://github.com/mendableai/data-connectors/pull/10 -- Added a Notion data connector to Mendable
 - https://github.com/mendableai/data-connectors/pull/6 -- Added a GitHub data connector to Mendable
 - https://github.com/tailcallhq/tailcall/pull/1058 -- Fixed an inconsistency in GraphQL serialization in Tailcall
 - https://github.com/tailcallhq/tailcall/pull/1054 -- Added markdown-based snapshot testing framework to Tailcall (WIP)
