@@ -5,6 +5,10 @@ I'm Gergő Móricz, aka mog or mogery.
 - 🔭 I’m currently working on [ComCODE](https://comcode.org) and [various software bounties](https://algora.io/@/mogery)
 - 📫 How to reach me: I'm on Discord (@mogery)
 
+### My proudest moments in code
+- [dynarec'd mono bug](https://github.com/ptitSeb/box64/issues/131#issuecomment-941178143)
+- [Spotify on Nintendo Switch](https://github.com/mogery/90spot) ([demo](https://twitter.com/mo_geryy/status/1527326596247724033))
+
 ### OSS contributions
 #### 2024
 - https://github.com/mendableai/data-connectors/pull/13 -- Added a Confluence data connector to Mendable (in review)
