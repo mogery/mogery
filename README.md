@@ -11,7 +11,7 @@ I'm Gergő Móricz, aka mog or mogery.
 
 ### OSS contributions
 #### 2024
-- https://github.com/tailcallhq/tailcall/pull/1086 - Simplified platform-specific IO implementation piping in Tailcall
+- https://github.com/tailcallhq/tailcall/pull/1086 -- Simplified platform-specific IO implementation piping in Tailcall
 - https://github.com/mendableai/data-connectors/pull/13 -- Added a Confluence data connector to Mendable
 - https://github.com/mendableai/data-connectors/pull/12 -- Added a Jira data connector to Mendable
 - https://github.com/mendableai/data-connectors/pull/10 -- Added a Notion data connector to Mendable
