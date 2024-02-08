@@ -11,6 +11,8 @@ I'm Gergő Móricz, aka mog or mogery.
 
 ### OSS contributions
 #### 2024
+- https://github.com/tailcallhq/tailcall/pull/1142 -- Added a mock file system to the markdown-based snapshot testing framework in Tailcall
+- https://github.com/mendableai/data-connectors/pull/16 -- Added a Salesforce data connector to Mendable
 - https://github.com/qdrant/qdrant/pull/3430 -- Added support for storing snapshots on S3 (in review)
 - https://github.com/rosenpass/rosenpass/pull/235 -- Ports "rp" shell script to Rust (in review)
 - https://github.com/tailcallhq/tailcall/pull/1086 -- Simplified platform-specific IO implementation piping in Tailcall
