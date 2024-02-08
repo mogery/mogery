@@ -11,9 +11,10 @@ I'm Gergő Móricz, aka mog or mogery.
 
 ### OSS contributions
 #### 2024
+- https://github.com/tailcallhq/tailcall/pull/1152 -- Added better JSON error responses for GraphQL parsing errors (WIP)
 - https://github.com/tailcallhq/tailcall/pull/1142 -- Added a mock file system to the markdown-based snapshot testing framework in Tailcall
 - https://github.com/mendableai/data-connectors/pull/16 -- Added a Salesforce data connector to Mendable
-- https://github.com/qdrant/qdrant/pull/3430 -- Added support for storing snapshots on S3 (in review)
+- https://github.com/qdrant/qdrant/pull/3520 -- Created a snapshot manager system that allows us to abstract the file destination for Qdrant (in review)
 - https://github.com/rosenpass/rosenpass/pull/235 -- Ports "rp" shell script to Rust (in review)
 - https://github.com/tailcallhq/tailcall/pull/1086 -- Simplified platform-specific IO implementation piping in Tailcall
 - https://github.com/mendableai/data-connectors/pull/13 -- Added a Confluence data connector to Mendable
@@ -22,9 +23,9 @@ I'm Gergő Móricz, aka mog or mogery.
 - https://github.com/mendableai/data-connectors/pull/6 -- Added a GitHub data connector to Mendable
 - https://github.com/tailcallhq/tailcall/pull/1058 -- Fixed an inconsistency in GraphQL serialization in Tailcall
 - https://github.com/tailcallhq/tailcall/pull/1054 -- Added markdown-based snapshot testing framework to Tailcall
-- https://github.com/tailcallhq/tailcall/pull/1048 -- Added file data source to Tailcall (in review)
+- https://github.com/tailcallhq/tailcall/pull/1048 -- Added file data source to Tailcall (WIP)
 - https://github.com/tailcallhq/tailcall/pull/1044 -- Added AWS Lambda deployment support to Tailcall (in review)
-- https://github.com/highlight/highlight/pull/7578 -- Added Rust SDK for Highlight.io (in review)
+- https://github.com/highlight/highlight/pull/7578 -- Added Rust SDK for Highlight.io (WIP)
 - https://github.com/tailcallhq/tailcall/pull/1015 -- Added a showcase endpoint to run Tailcall on the fly
 - https://github.com/calcom/cal.com/pull/13337 -- Added ICS feed support
 
