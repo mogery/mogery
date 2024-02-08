@@ -11,6 +11,8 @@ I'm Gergő Móricz, aka mog or mogery.
 
 ### OSS contributions
 #### 2024
+- https://github.com/qdrant/qdrant/pull/3430 -- Added support for storing snapshots on S3 (in review)
+- https://github.com/rosenpass/rosenpass/pull/235 -- Ports "rp" shell script to Rust (in review)
 - https://github.com/tailcallhq/tailcall/pull/1086 -- Simplified platform-specific IO implementation piping in Tailcall
 - https://github.com/mendableai/data-connectors/pull/13 -- Added a Confluence data connector to Mendable
 - https://github.com/mendableai/data-connectors/pull/12 -- Added a Jira data connector to Mendable
@@ -21,8 +23,7 @@ I'm Gergő Móricz, aka mog or mogery.
 - https://github.com/tailcallhq/tailcall/pull/1048 -- Added file data source to Tailcall (in review)
 - https://github.com/tailcallhq/tailcall/pull/1044 -- Added AWS Lambda deployment support to Tailcall (in review)
 - https://github.com/highlight/highlight/pull/7578 -- Added Rust SDK for Highlight.io (in review)
-- https://github.com/tailcallhq/tailcall/pull/1015 -- Added a showcase endpoint to run Tailcall on the fly (in review)
-- https://github.com/qdrant/qdrant/pull/3430 -- Added support for storing snapshots on S3 (in review)
+- https://github.com/tailcallhq/tailcall/pull/1015 -- Added a showcase endpoint to run Tailcall on the fly
 - https://github.com/calcom/cal.com/pull/13337 -- Added ICS feed support
 
 #### 2021
