@@ -25,7 +25,7 @@ I'm Gergő Móricz, aka mog or mogery.
 - https://github.com/tailcallhq/tailcall/pull/1054 -- Added markdown-based snapshot testing framework to Tailcall
 - https://github.com/tailcallhq/tailcall/pull/1048 -- Added file data source to Tailcall (WIP)
 - https://github.com/tailcallhq/tailcall/pull/1044 -- Added AWS Lambda deployment support to Tailcall (in review)
-- https://github.com/highlight/highlight/pull/7578 -- Added Rust SDK for Highlight.io (WIP)
+- https://github.com/highlight/highlight/pull/7578 -- Added Rust SDK for Highlight.io
 - https://github.com/tailcallhq/tailcall/pull/1015 -- Added a showcase endpoint to run Tailcall on the fly
 - https://github.com/calcom/cal.com/pull/13337 -- Added ICS feed support
 
