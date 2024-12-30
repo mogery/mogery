@@ -2,7 +2,7 @@
 
 I'm Gergő Móricz, aka mog or mogery.
 
-- 🔭 I’m currently working on [ComCODE](https://comcode.org) and [various software bounties](https://algora.io/@/mogery)
+- 🔭 I’m currently working on [Firecrawl](https://firecrawl.dev)
 - 📫 How to reach me: I'm on Discord (@mogery)
 
 ### My proudest moments in code
