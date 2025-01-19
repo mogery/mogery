@@ -3,7 +3,8 @@
 I'm Gergő Móricz, aka mog or mogery.
 
 - 🔭 I’m currently working on [Firecrawl](https://firecrawl.dev)
-- 📫 How to reach me: I'm on Discord (@mogery)
+- 📫 How to reach me: I'm not actively on social media anymore. [Shoot me an e-mail!](mailto:mo.geryy@gmail.com)
+- I run a rambly-but-sometimes-interesting [blog](https://blog.mogery.me)
 
 ### My proudest moments in code
 - [dynarec'd mono bug](https://github.com/ptitSeb/box64/issues/131#issuecomment-941178143)
