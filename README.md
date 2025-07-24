@@ -3,7 +3,7 @@
 I'm Gergő Móricz, aka mog or mogery.
 
 - 🔭 I’m currently working on [Firecrawl](https://firecrawl.dev)
-- 📫 How to reach me: I'm not actively on social media anymore. [Shoot me an e-mail!](mailto:mo.geryy@gmail.com)
+- 📫 How to reach me: I'm not active on social media anymore. [Shoot me an e-mail!](mailto:mo.geryy@gmail.com)
 - I run a rambly-but-sometimes-interesting [blog](https://blog.mogery.me)
 
 ### My proudest moments in code
@@ -11,12 +11,15 @@ I'm Gergő Móricz, aka mog or mogery.
 - [Spotify on Nintendo Switch](https://github.com/mogery/90spot) ([demo](https://twitter.com/mo_geryy/status/1527326596247724033))
 
 ### OSS contributions
+
+#### 2025
+- Full-time work on [Firecrawl](https://github.com/mendableai/firecrawl)
+
 #### 2024
-- https://github.com/tailcallhq/tailcall/pull/1152 -- Added better JSON error responses for GraphQL parsing errors (WIP)
 - https://github.com/tailcallhq/tailcall/pull/1142 -- Added a mock file system to the markdown-based snapshot testing framework in Tailcall
 - https://github.com/mendableai/data-connectors/pull/16 -- Added a Salesforce data connector to Mendable
 - https://github.com/qdrant/qdrant/pull/3520 -- Created a snapshot manager system that allows us to abstract the file destination for Qdrant (in review)
-- https://github.com/rosenpass/rosenpass/pull/235 -- Ports "rp" shell script to Rust (in review)
+- https://github.com/rosenpass/rosenpass/pull/235 -- Ports "rp" shell script to Rust
 - https://github.com/tailcallhq/tailcall/pull/1086 -- Simplified platform-specific IO implementation piping in Tailcall
 - https://github.com/mendableai/data-connectors/pull/13 -- Added a Confluence data connector to Mendable
 - https://github.com/mendableai/data-connectors/pull/12 -- Added a Jira data connector to Mendable
@@ -24,8 +27,7 @@ I'm Gergő Móricz, aka mog or mogery.
 - https://github.com/mendableai/data-connectors/pull/6 -- Added a GitHub data connector to Mendable
 - https://github.com/tailcallhq/tailcall/pull/1058 -- Fixed an inconsistency in GraphQL serialization in Tailcall
 - https://github.com/tailcallhq/tailcall/pull/1054 -- Added markdown-based snapshot testing framework to Tailcall
-- https://github.com/tailcallhq/tailcall/pull/1048 -- Added file data source to Tailcall (WIP)
-- https://github.com/tailcallhq/tailcall/pull/1044 -- Added AWS Lambda deployment support to Tailcall (in review)
+- https://github.com/tailcallhq/tailcall/pull/1044 -- Added AWS Lambda deployment support to Tailcall
 - https://github.com/highlight/highlight/pull/7578 -- Added Rust SDK for Highlight.io
 - https://github.com/tailcallhq/tailcall/pull/1015 -- Added a showcase endpoint to run Tailcall on the fly
 - https://github.com/calcom/cal.com/pull/13337 -- Added ICS feed support
